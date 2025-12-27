@@ -42,5 +42,6 @@ print(r.get_width())
 ## Output
 
 <img width="287" height="147" alt="image" src="https://github.com/user-attachments/assets/43f2e635-4521-48d2-b91c-0b3cff862647" />
+
 ## Result
 Thus, the program is executed successfully.
