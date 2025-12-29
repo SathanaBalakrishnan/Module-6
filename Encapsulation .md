@@ -26,8 +26,8 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ```
 class Rectangle:
     def __init__(self, length, width):
-        self.__length = length  # private variable
-        self.__width = width    # private variable
+        self.__length = length 
+        self.__width = width  
     def print_inside(self):
         print(self.__length)
         print(self.__width)
